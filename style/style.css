@@ -58,7 +58,7 @@
 }
 .title{
     width: 1380px;
-    height: 450px;
+    height:auto;
     justify-content: space-between;
     align-items: center;
     border-radius: 24px;
